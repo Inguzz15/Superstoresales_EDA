@@ -18,4 +18,5 @@ I uncovered crucial insights into sales, profits, and categories sales By examin
 - Excel
 
 Details , Charts and Summary are explained in the demo video below. 
+
 Demo: https://www.linkedin.com/posts/nada-ahmed-9381401aa_gripoctober23-dataanalysis-retail-activity-7119740047716757504-7CsL?utm_source=share&utm_medium=member_desktop
